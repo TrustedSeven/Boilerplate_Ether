@@ -29,9 +29,6 @@ If you need help with setting up the boilerplate or have other questions - don't
 
 📄 Clone or fork `ethereum-boilerplate`:
 
-```sh
-git clone https://github.com/ethereum-boilerplate/ethereum-boilerplate.git
-```
 
 💿 Install all dependencies:
 
